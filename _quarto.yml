@@ -7,7 +7,7 @@ execute:
 book:
   title: "GROUP_UJ Handbook"
   search: true
-  repo-url: https://github.com/cct-datascience/group-handbook-template
+  repo-url: https://github.com/cct-datascience/uj-handbook-template
   repo-actions: [edit, issue]
   page-footer: '© 2024 by PI_NAME <br> This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}'
   author: 
