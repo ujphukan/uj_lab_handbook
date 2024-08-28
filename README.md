@@ -1,4 +1,4 @@
-# group-handbook-template
+# uj-handbook-template
 
 <!-- badges: start -->
 
