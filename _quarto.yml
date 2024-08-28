@@ -5,7 +5,7 @@ execute:
   freeze: auto #only important if your book includes executed code
   
 book:
-  title: "GROUP_NAME Handbook"
+  title: "GROUP_UJ Handbook"
   search: true
   repo-url: https://github.com/cct-datascience/group-handbook-template
   repo-actions: [edit, issue]
